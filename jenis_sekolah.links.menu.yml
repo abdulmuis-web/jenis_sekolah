@@ -1,0 +1,14 @@
+
+# Jenis sekolah menu items definition
+entity.jenis_sekolah.collection:
+  title: 'Jenis sekolah list'
+  route_name: entity.jenis_sekolah.collection
+  description: 'List Jenis sekolah entities'
+  parent: system.admin_structure
+  weight: 100
+
+jenis_sekolah.admin.structure.settings:
+  title: 'Jenis sekolah settings'
+  description: 'Configure Jenis sekolah entities'
+  route_name: jenis_sekolah.settings
+  parent: system.admin_structure

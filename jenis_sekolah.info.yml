@@ -1,0 +1,7 @@
+name: 'Jenis Sekolah'
+type: module
+description: 'Daftar jenis sekolah'
+core: 8.x
+package: 'PPDB'
+dependencies:
+  - views

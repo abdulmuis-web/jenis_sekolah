@@ -1,0 +1,19 @@
+add jenis sekolah entities:
+  title: 'Create new Jenis sekolah entities'
+
+administer jenis sekolah entities:
+  title: 'Administer Jenis sekolah entities'
+  description: 'Allow to access the administration form to configure Jenis sekolah entities.'
+  restrict access: true
+
+delete jenis sekolah entities:
+  title: 'Delete Jenis sekolah entities'
+
+edit jenis sekolah entities:
+  title: 'Edit Jenis sekolah entities'
+
+view published jenis sekolah entities:
+  title: 'View published Jenis sekolah entities'
+
+view unpublished jenis sekolah entities:
+  title: 'View unpublished Jenis sekolah entities'

@@ -1,0 +1,14 @@
+{
+  "name": "drupal/jenis_sekolah",
+  "type": "drupal-module",
+  "description": "Daftar jenis sekolah",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/jenis_sekolah",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/jenis_sekolah",
+    "source": "http://cgit.drupalcode.org/jenis_sekolah"
+  },
+  "require": { }
+}

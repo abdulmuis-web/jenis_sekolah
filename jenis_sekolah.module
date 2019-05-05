@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains jenis_sekolah.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function jenis_sekolah_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the jenis_sekolah module.
+    case 'help.page.jenis_sekolah':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Daftar jenis sekolah') . '</p>';
+      return $output;
+
+    default:
+  }
+}
